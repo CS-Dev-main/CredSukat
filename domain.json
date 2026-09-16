@@ -1,5 +1,5 @@
 {
-  "apiPath": "https://in-api.credistamp.net",
-  "h5Path": "https://app.credistamp.net",
+  "apiPath": "https://ph-test.metertrust.com",
+  "h5Path": "https://h5.credharborca.com",
   "version": 1
 }
